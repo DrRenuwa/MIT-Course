@@ -14,7 +14,7 @@ SCRABBLE_LETTER_VALUES = {
     'v': 4, 'w': 4, 'x': 8, 'y': 4, 'z': 10
 }
 
-WORDLIST_FILENAME = "Python\MIT\words.txt"
+WORDLIST_FILENAME = "Python\MIT\wordgameWords.txt"
 
 
 def loadWords():
